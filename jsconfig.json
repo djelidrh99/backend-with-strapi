@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "target": "ESNext",
+    "allowJs": true
+  },
+  "include": ["**/*.js"],
+  "exclude": ["node_modules"]
+}
